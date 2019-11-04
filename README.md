@@ -7,3 +7,5 @@ This project aims to analyze anonymous survey responses collected from sexual as
 2) Analysis_Final.twbx: Tableau packaged workbook consisting of relevant visualizations.
 
 3) Survey_on_Sexual_Assault.xlsx: Sample input file
+
+4) MeToo_Story.pdf - Visualization PDF Document
